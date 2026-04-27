@@ -81,3 +81,6 @@ To exit the virtual environment, delete the `.venv` folder from the parent direc
 | `line_of_sight.py` | All logic for computing radar line of sight. |
 | `main.py` | **Entry point.** The only file that should be run directly. |
 | `requirements.txt` | Python dependency list for `pip install -r`. |
+
+## Author
+Timothé Jammes — https://github.com/TimoJammes — timothe.jammes@gmail.com
